@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>LoginNegative</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a6741df0-7d98-4a25-830c-7890d1db5ebf</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>locked_out_user secret_sauce Epic+sadface%3A+Sorry%2C+this+user+has+been+locked+out.</data>
+   <data>standard_user wrong_pass Epic+sadface%3A+Username+and+password+do+not+match+any+user+in+this+service</data>
+   <data>invalid_user secret_sauce Epic+sadface%3A+Username+and+password+do+not+match+any+user+in+this+service</data>
+   <data>null secret_sauce Epic+sadface%3A+Username+is+required</data>
+   <data>standard_user null Epic+sadface%3A+Password+is+required</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>username</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>password</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>expected_error</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

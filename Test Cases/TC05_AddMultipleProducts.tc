@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_AddMultipleProducts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d59cd7ba-85e7-43a9-8bd2-d3a88c00dea7</testCaseGuid>
+</TestCaseEntity>
